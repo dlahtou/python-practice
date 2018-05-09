@@ -1,3 +1,5 @@
+## This was an early iteration of my solution that can now be found in towerbreakers.py
+
 listofmaxtowers = [1,0,0,0,2,3,4,5,7,11]
 
 def findvalue(towerheight):
